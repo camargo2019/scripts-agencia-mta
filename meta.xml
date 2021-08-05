@@ -1,0 +1,53 @@
+<meta>
+	<info author="Gabriel Camargo" name="Agencia de Empregos" description="Agencia de Empregos BRP" type="script"></info>
+
+	<script src="Edit.lua" type="server" />
+	<script src="Edit.lua" type="client" />
+
+	<script src="S-Agen.lua" type="server" />
+	<script src="C-Agen.lua" type="client" />
+
+	<!--Jobs Arquivos -->
+
+	<script src="Jobs/Lixeiro/S-Lixeiro.lua" type="server" />
+	<script src="Jobs/Lixeiro/C-Lixeiro.lua" type="client" />
+	
+	<script src="Jobs/EntregadordeJornal/S-EntregadordeJornal.lua" type="server" />
+	<script src="Jobs/EntregadordeJornal/C-EntregadordeJornal.lua" type="client" />
+	
+	<script src="Jobs/Pescador/S-Pescador.lua" type="server" />
+	<script src="Jobs/Pescador/C-Pescador.lua" type="client" />
+	
+	<script src="Jobs/Caminhoneiro/S-Caminhoneiro.lua" type="server" />
+	<script src="Jobs/Caminhoneiro/C-Caminhoneiro.lua" type="client" />
+	
+	<script src="Jobs/Leiteiro/S-Leiteiro.lua" type="server" />
+	<script src="Jobs/Leiteiro/C-Leiteiro.lua" type="client" />
+	
+	<script src="Jobs/EntregadordeGas/S-EntregadordeGas.lua" type="server" />
+	<script src="Jobs/EntregadordeGas/C-EntregadordeGas.lua" type="client" />
+
+	<script src="Jobs/Fazendeiro/S-Fazendeiro.lua" type="server" />
+	<script src="Jobs/Fazendeiro/C-Fazendeiro.lua" type="client" />
+	<!-- Media -->
+
+	<file src="img/fundoAgencia.png" cache="false" />
+	<file src="img/Lixeiro.png" cache="false" />
+	<file src="img/Pescador.png" cache="false" />
+	<file src="img/Caminhoneiro.png" cache="false" />
+	<file src="img/EntregadordeGas.png" cache="false" />
+	<file src="img/EntregadordeJornal.png" cache="false" />
+	<file src="img/Leiteiro.png" cache="false" />
+	<file src="img/Fazendeiro.png" cache="false" />
+	<file src="img/Minerador.png" cache="false" />
+	<file src="img/MotoristaDeOnibus.png" cache="false" />
+
+	<file src="img/TelaFundo.png" cache="false" />
+	<file src="img/Button.png" cache="false" />
+
+	<file src="font/font.ttf" cache="false" />
+	<file src="font/impact.ttf" cache="false" />
+
+	<file src="Aud/EfeitoLixo.mp3" cache="false" />
+
+</meta>
